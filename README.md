@@ -109,3 +109,12 @@ https://observatory.mozilla.org/
 - onpage.org
 - woorank
 - https://www.seobility.net/en/
+
+## Le monde extérieur
+### Backlinks
+#### Annauaires
+### Réseaux sociaux
+#### Page facebook
+#### Compte Twitter
+#### Instagram
+#### Youtube
