@@ -1,5 +1,19 @@
 # livre-blanc-seo
-Ouvert à toutes les contributions. Partager ce qu'il faut savoir pour bien référencer un site
+Ouvert à toutes les contributions. Partager ce qu'il faut savoir pour bien référencer un site.
+
+/!\ Pour contribuer, vous pouvez soit écrire du contenu, soit :
+- donner votre avis ;
+- râler ;
+- applaudir ;
+- remonter des erreurs ;
+- parler de ce projet (ou écrire sur ce projet) ;
+- corriger des fautes qu'elles soient de français ou techniques, grossières ou non ;
+- sûrement beaucoup d'autres choses.
+Quoi que vous fassiez, ça se passe par ici : https://github.com/MathRobin/livre-blanc-seo/issues
+
+PS : quoi qu'il en soit, d'avance : merci !
+
+Fait avec :heart: pour toutes et tous
 
 ## URLs
 ### Domaine et localisation
