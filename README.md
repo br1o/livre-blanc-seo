@@ -37,6 +37,15 @@ Quid de l'usage de HTTPS face à HTTP
 
 Ce qu'il faut savoir côté code
 
+### Meta tags
+#### Canonical
+#### Description
+#### Author
+#### OpenGraph
+#### Twitter Cards
+#### Alternate Lang
+#### Publisher
+
 ### JavaScript
 
 Ce qui est compris ou non.
@@ -51,6 +60,11 @@ https://www.ampproject.org/
 
 ### FIA
 https://instantarticles.fb.com/
+
+### Favicons
+#### Apple Touch Icon
+#### Shortcut icon
+#### Icon
 
 ## Outils
 ### Google
