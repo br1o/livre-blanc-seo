@@ -21,9 +21,27 @@ Ici se situeront les conseils concernant le domaine à utiliser.
 
 Par exemple qu'il est préférable d'utiliser un .fr pour un site qui vise le marché français et non un .com, plutôt destiné aux USA.
 
+### Sous domaine
+
+Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines
+
+### La requête
+
+Comment faire une URL proprement pour tout ce qui suit le domaine
+
+### Protocole HTTPS
+
+Quid de l'usage de HTTPS face à HTTP
+
 ## Code
 
 Ce qu'il faut savoir côté code
+
+### JavaScript
+
+Ce qui est compris ou non.
+
+### Ligne de flottaison
 
 ### Schema
 https://schema.org/
