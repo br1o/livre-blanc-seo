@@ -11,7 +11,7 @@ Ouvert à toutes les contributions. Partager ce qu'il faut savoir pour bien réf
 - sûrement beaucoup d'autres choses.
 Quoi que vous fassiez, ça se passe par ici : https://github.com/MathRobin/livre-blanc-seo/issues
 
-PS : quoi qu'il en soit, d'avance : merci !
+PS : quoi qu'il en soit, d'avance : merci ! :thumbsup:
 
 Fait avec :heart: pour toutes et tous
 
