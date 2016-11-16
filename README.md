@@ -21,8 +21,8 @@ https://www.ampproject.org/
 https://instantarticles.fb.com/
 
 ## Outils
-onpage.org
-woorank
-google search console
-google analytics
-bing search console
+- onpage.org
+- woorank
+- google search console
+- google analytics
+- bing search console
