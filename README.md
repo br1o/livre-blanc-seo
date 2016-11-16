@@ -58,6 +58,11 @@ Ce qui est compris ou non.
 
 ### Ligne de flottaison
 
+### Sitemaps
+
+Usage d'un sitemap pour les pages indexables
+Usage d'un sitemap alternatif provisoire pour les redirections 301 et 302
+
 ### Schema
 https://schema.org/
 
