@@ -33,6 +33,10 @@ Comment faire une URL proprement pour tout ce qui suit le domaine
 
 Quid de l'usage de HTTPS face à HTTP
 
+### Protocole HTTP 2
+
+Quid de l'usage de HTTP 2
+
 ## Code
 
 Ce qu'il faut savoir côté code
