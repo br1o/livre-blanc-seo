@@ -29,6 +29,8 @@ Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines
 
 Comment faire une URL proprement pour tout ce qui suit le domaine
 
+#### Usage du / terminal
+
 ### Protocole HTTPS
 
 Quid de l'usage de HTTPS face à HTTP
