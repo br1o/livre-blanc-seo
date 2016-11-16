@@ -60,6 +60,9 @@ https://www.google.com/webmasters/tools/home
 #### Google Analytics
 https://www.google.fr/intl/fr/analytics/
 
+#### Embed API
+https://ga-dev-tools.appspot.com/embed-api/basic-dashboard/
+
 ### Bing
 #### Bing Webmaster Tools
 http://www.bing.com/toolbox/webmaster
