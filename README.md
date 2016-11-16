@@ -21,8 +21,17 @@ https://www.ampproject.org/
 https://instantarticles.fb.com/
 
 ## Outils
+### Google
+#### Google Search Console
+https://www.google.com/webmasters/tools/home
+
+#### Google Analytics
+https://www.google.fr/intl/fr/analytics/
+
+### Bing
+#### Bing Webmaster Tools
+http://www.bing.com/toolbox/webmaster
+
+### Indépendants
 - onpage.org
 - woorank
-- google search console
-- google analytics
-- bing search console
