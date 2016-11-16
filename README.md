@@ -43,6 +43,15 @@ Quid de l'usage de HTTP 2
 
 Ce qu'il faut savoir côté code
 
+### Contenu
+#### Liens internes et externes
+#### Ratio HTML / Texte
+#### Hierarchie de la page
+
+### Headers
+#### CSP
+#### STS
+
 ### Meta tags
 #### Canonical
 #### Description
