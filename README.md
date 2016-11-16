@@ -74,3 +74,4 @@ https://observatory.mozilla.org/
 ### Indépendants
 - onpage.org
 - woorank
+- https://www.seobility.net/en/
