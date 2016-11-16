@@ -1,7 +1,7 @@
 # livre-blanc-seo
 Ouvert à toutes les contributions. Partager ce qu'il faut savoir pour bien référencer un site.
 
-/!\ Pour contribuer, vous pouvez soit écrire du contenu, soit :
+:information_source: Pour contribuer, vous pouvez soit écrire du contenu, soit :
 - donner votre avis ;
 - râler ;
 - applaudir ;
