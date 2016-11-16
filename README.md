@@ -67,6 +67,10 @@ https://ga-dev-tools.appspot.com/embed-api/basic-dashboard/
 #### Bing Webmaster Tools
 http://www.bing.com/toolbox/webmaster
 
+### Mozilla
+#### Mozilla Observatory
+https://observatory.mozilla.org/
+
 ### Indépendants
 - onpage.org
 - woorank
