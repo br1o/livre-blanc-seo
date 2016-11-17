@@ -168,7 +168,7 @@ https://observatory.mozilla.org/
 
 ## Le monde extérieur
 ### Backlinks
-#### Annauaires
+#### Annuaires
 ### Réseaux sociaux
 #### Page facebook
 #### Compte Twitter
