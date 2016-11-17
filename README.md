@@ -77,7 +77,9 @@ Par exemple qu'il est préférable d'utiliser un .fr pour un site qui vise le ma
 
 ### Sous domaine
 
-Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines
+Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines.
+
+Par défaut Google (qui des autres moteurs ?), considère que les domaines www.[unsite.une tld] et [unsite.une tld] doivent être des sites différents. Si vous n'avez pas prévu d'utiliser les deux sous-domaines en tant que sites indépendants, il est préférable d'en choisir un comme référence et de rediriger toutes URL de l'autre via 301 vers le premier.
 
 ### La requête
 
