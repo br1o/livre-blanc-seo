@@ -15,6 +15,60 @@ PS : quoi qu'il en soit, d'avance : merci ! :thumbsup:
 
 Fait avec :heart: pour toutes et tous
 
+## Table des matières
+
+* [URLs](#urls)
+   * [Domaine et localisation](#domaine-et-localisation)
+   * [Sous domaine](#sous-domaine)
+   * [La requête](#la-requête)
+      * [Usage du / terminal](#usage-du--terminal)
+   * [Protocole HTTPS](#protocole-https)
+   * [Protocole HTTP 2](#protocole-http-2)
+* [Code](#code)
+   * [Contenu](#contenu)
+      * [Liens internes et externes](#liens-internes-et-externes)
+      * [Ratio HTML / Texte](#ratio-html--texte)
+      * [Hierarchie de la page](#hierarchie-de-la-page)
+   * [Headers](#headers)
+      * [CSP](#csp)
+      * [STS](#sts)
+   * [Meta tags](#meta-tags)
+      * [Canonical](#canonical)
+      * [Description](#description)
+      * [Author](#author)
+      * [OpenGraph](#opengraph)
+      * [Twitter Cards](#twitter-cards)
+      * [Alternate Lang](#alternate-lang)
+      * [Publisher](#publisher)
+   * [JavaScript](#javascript)
+   * [Ligne de flottaison](#ligne-de-flottaison)
+   * [Sitemaps](#sitemaps)
+   * [Schema](#schema)
+   * [AMP](#amp)
+   * [FIA](#fia)
+   * [Favicons](#favicons)
+      * [Apple Touch Icon](#apple-touch-icon)
+      * [Shortcut icon](#shortcut-icon)
+      * [Icon](#icon)
+* [Outils](#outils)
+   * [Google](#google)
+      * [Google Search Console](#google-search-console)
+      * [Google Analytics](#google-analytics)
+      * [Embed API](#embed-api)
+   * [Bing](#bing)
+      * [Bing Webmaster Tools](#bing-webmaster-tools)
+   * [Mozilla](#mozilla)
+      * [Mozilla Observatory](#mozilla-observatory)
+   * [Indépendants](#indépendants)
+* [Le monde extérieur](#le-monde-extérieur)
+   * [Backlinks](#backlinks)
+      * [Annauaires](#annauaires)
+   * [Réseaux sociaux](#réseaux-sociaux)
+      * [Page facebook](#page-facebook)
+      * [Compte Twitter](#compte-twitter)
+      * [Instagram](#instagram)
+      * [Youtube](#youtube)
+
 ## URLs
 ### Domaine et localisation
 Ici se situeront les conseils concernant le domaine à utiliser.
@@ -23,7 +77,9 @@ Par exemple qu'il est préférable d'utiliser un .fr pour un site qui vise le ma
 
 ### Sous domaine
 
-Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines
+Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines.
+
+Par défaut Google (qui des autres moteurs ?), considère que les domaines www.[unsite.une tld] et [unsite.une tld] doivent être des sites différents. Si vous n'avez pas prévu d'utiliser les deux sous-domaines en tant que sites indépendants, il est préférable d'en choisir un comme référence et de rediriger toutes URL de l'autre via 301 vers le premier.
 
 ### La requête
 
