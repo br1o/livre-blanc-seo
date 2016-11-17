@@ -131,6 +131,8 @@ Pour chaque page, elle doit être unique et être comprise entre 150 et 160 cara
 
 Source : https://moz.com/learn/seo/meta-description
 
+Vidéo de Matt Cutts [_"Is it necessary for every page to have a meta description?"_](https://www.youtube.com/watch?v=W4gr88oHb-k)
+
 #### OpenGraph
 
 #### Publisher
