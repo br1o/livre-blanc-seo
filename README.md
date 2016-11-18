@@ -79,7 +79,7 @@ Par exemple qu'il est préférable d'utiliser un .fr pour un site qui vise le ma
 
 Ce qu'il faut savoir sur avec ou sans www, les autres sous-domaines.
 
-Par défaut Google (qui des autres moteurs ?), considère que les domaines www.[unsite.une tld] et [unsite.une tld] doivent être des sites différents. Si vous n'avez pas prévu d'utiliser les deux sous-domaines en tant que sites indépendants, il est préférable d'en choisir un comme référence et de rediriger toutes URL de l'autre via 301 vers le premier.
+Par défaut Google (qui des autres moteurs ?), considère que les domaines www.[unSite.uneTld] et [unSite.uneTld] doivent être des sites différents. Si vous n'avez pas prévu d'utiliser les deux sous-domaines en tant que sites indépendants, il est préférable d'en choisir un comme référence et de rediriger toutes URL de l'autre via 301 vers le premier.
 
 ### La requête
 
@@ -100,22 +100,44 @@ Quid de l'usage de HTTP 2
 Ce qu'il faut savoir côté code
 
 ### Contenu
+#### Hierarchie de la page
 #### Liens internes et externes
 #### Ratio HTML / Texte
-#### Hierarchie de la page
 
 ### Headers
+
+Dans les en-têtes de vos pages, un certain nombre d'infos doivent être présentes. Surtout our une question de sécurité.
+
 #### CSP
+
+Permet de réduire les risques d'attaques XSS. N'est pas un critère SEO chez Google mais on peut parier que des moteurs se préoccupant de la confidentialité soient intéressés par la présence de cette en-tête.
+
+https://content-security-policy.com/
+
 #### STS
 
 ### Meta tags
-#### Canonical
-#### Description
-#### Author
-#### OpenGraph
-#### Twitter Cards
 #### Alternate Lang
+
+#### Author
+
+#### Canonical
+
+#### Meta-description
+
+La meta-description est un élément clé pour attirer vos visiteurs. En soit, elle ne compte pas pour le référencement. Cette description s'affiche dans les résultats Google. Au delà des 160 caractères, le reste ne s'affichera pas et est donc inutile. Autant ne pas alourdir votre page avec du contenu en trop.
+
+Pour chaque page, elle doit être unique et être comprise entre 150 et 160 caractères.
+
+Source : https://moz.com/learn/seo/meta-description
+
+Vidéo de Matt Cutts [_"Is it necessary for every page to have a meta description?"_](https://www.youtube.com/watch?v=W4gr88oHb-k)
+
+#### OpenGraph
+
 #### Publisher
+
+#### Twitter Cards
 
 ### JavaScript
 
@@ -176,7 +198,7 @@ https://observatory.mozilla.org/
 
 ## Le monde extérieur
 ### Backlinks
-#### Annauaires
+#### Annuaires
 ### Réseaux sociaux
 #### Page facebook
 #### Compte Twitter
