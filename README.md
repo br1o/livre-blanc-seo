@@ -141,6 +141,8 @@ La balise ``` <link rel="canonical" href="contenu de référence" /> ``` permet 
 
 Source : https://support.google.com/webmasters/answer/139066?hl=en
 
+Vidéo de Matt Cutts [_"Canonical Link Element"_](https://www.youtube.com/watch?v=Cm9onOGTgeM)
+
 #### Meta-description
 
 La meta-description est un élément clé pour attirer vos visiteurs. En soit, elle ne compte pas pour le référencement. Cette description s'affiche dans les résultats Google. Au delà des 160 caractères, le reste ne s'affichera pas et est donc inutile. Autant ne pas alourdir votre page avec du contenu en trop.
