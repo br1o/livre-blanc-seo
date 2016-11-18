@@ -55,6 +55,13 @@ Fait avec :heart: pour toutes et tous
       * [Google Search Console](#google-search-console)
       * [Google Analytics](#google-analytics)
       * [Embed API](#embed-api)
+* [Algorithmes Google](#algorithmes-google)
+    * [PageRank](#pagerank)
+    * [Pénalités](#pénalités)
+    * [Google Panda](#google-panda)
+    * [Google Penguin](#google-penguin)
+    * [Page Layout](#page-layout)
+    * [PayDay Loan](#payday-loan)
    * [Bing](#bing)
       * [Bing Webmaster Tools](#bing-webmaster-tools)
    * [Mozilla](#mozilla)
@@ -174,6 +181,30 @@ https://www.google.fr/intl/fr/analytics/
 
 #### Embed API
 https://ga-dev-tools.appspot.com/embed-api/basic-dashboard/
+
+####  Algorithmes Google
+Google à mis en place de nombreux algorithmes pour améliorer la qualité de ses résultats : amélioration des contenu, lutte contre le spam, gestion de la publicité, performances du site, etc. 
+
+##### PageRank
+Le PageRank est l'algorithme qui permet à Google de connaitre le nombre de liens qui pointent vers une page donnée. Plus il existe de liens qui pointent vers cette page et plus la page est populaire. En gros, on peut dire que le PageRank indique la probabilité de tomber sur une page donnée en suivant des liens. Le nombre de liens qui pointent vers une page est tempéré par la qualité et le classement des liens qui pointent vers elle.  
+
+##### Pénalités
+A côté du PageRank, Google a mis en place une série de pénalités pour éviter que des pages de qualité douteuse ne trustent les premiers résultats. Cf. http://www.webrankinfo.com/dossiers/conseils/algos-google 
+
+###### Google Panda
+https://webmasters.googleblog.com/2011/05/more-guidance-on-building-high-quality.html
+
+###### Google Penguin
+https://webmasters.googleblog.com/2016/09/penguin-is-now-part-of-our-core.html
+
+###### Page Layout
+Publicité envahissante
+https://webmasters.googleblog.com/2012/01/page-layout-algorithm-improvement.html
+
+###### PayDay Loan
+Antispam
+http://searchengineland.com/google-pay-day-loan-algorithm-google-search-algorithm-update-to-target-spammy-queries-162941
+
 
 ### Bing
 #### Bing Webmaster Tools
