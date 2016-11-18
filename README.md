@@ -130,6 +130,17 @@ https://content-security-policy.com/
 
 #### Canonical
 
+La balise ``` <link rel="canonical" href="contenu de référence" /> ``` permet d'éviter de se faire taxer de "duplicate content" (contenu dupliqué : ce qui induit des pénalités sur le référencement). Elle sert à indiquer en cas de contenu dupliqué l'adresse du contenu de référence. Typiquement, cela s'applique si l'on a :
+
+- un moteur de blog qui permet d'atteindre le même contenu depuis plusieurs URLs
+- la même page produit qui se retrouve dans des catégories/chemins/URLs différents
+- la même page produit possède des URL dynamiques en raison de la session utilisateur et / ou de la préférence de recherche
+- etc.
+
+À noter, elle sert aussi en cas de simple rewriting, pour éviter de se faire pourrir ses adresses. Ex : un concurrent s'amuse à référencer votre billet ayant l'id 666 avec foo.com/vive_le_prOn_666 : l'adresse fonctionne, le rewriting aussi (mais il serait dommage d'être référencé ainsi, et de risquer en plus une pénalité de duplicate content). Toutefois, si vous avez mis un canonical vers foo.com/mon_bel_article_666 la vilaine tentative sera vaine. 
+
+Source : https://support.google.com/webmasters/answer/139066?hl=en
+
 #### Meta-description
 
 La meta-description est un élément clé pour attirer vos visiteurs. En soit, elle ne compte pas pour le référencement. Cette description s'affiche dans les résultats Google. Au delà des 160 caractères, le reste ne s'affichera pas et est donc inutile. Autant ne pas alourdir votre page avec du contenu en trop.
