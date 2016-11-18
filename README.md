@@ -56,13 +56,13 @@ Fait avec :heart: pour toutes et tous
       * [Google Analytics](#google-analytics)
       * [Embed API](#embed-api)
 * [Algorithmes Google](#algorithmes-google)
-    * [PageRank (PR)](#pagerank)
+    * [PageRank](#pagerank)
     * [Pénalités](#penalites)
     * [Google Panda](#google-panda)
     * [Google Penguin](#google-penguin)
     * [Google Penguin](#google-penguin)
-    * [Page Layout (publicité envahissante)](#page-layout)
-    * [PayDay Loan (antispam)](#payday-loan)
+    * [Page Layout](#page-layout)
+    * [PayDay Loan](#payday-loan)
    * [Bing](#bing)
       * [Bing Webmaster Tools](#bing-webmaster-tools)
    * [Mozilla](#mozilla)
@@ -186,11 +186,10 @@ https://ga-dev-tools.appspot.com/embed-api/basic-dashboard/
 ####  Algorithmes Google
 Google à mis en place de nombreux algorithmes pour améliorer la qualité de ses résultats : amélioration des contenu, lutte contre le spam, gestion de la publicité, performances du site, etc. 
 
-##### PageRank (PR) 
+##### PageRank
 Le PageRank est l'algorithme qui permet à Google de connaitre le nombre de liens qui pointent vers une page donnée. Plus il existe de liens qui pointent vers cette page et plus la page est populaire. En gros, on peut dire que le PageRank indique la probabilité de tomber sur une page donnée en suivant des liens. Le nombre de liens qui pointent vers une page est tempéré par la qualité et le classement des liens qui pointent vers elle.  
 
 ##### Pénalités
-
 A côté du PageRank, Google a mis en place une série de pénalités pour éviter que des pages de qualité douteuse ne trustent les premiers résultats. Cf. http://www.webrankinfo.com/dossiers/conseils/algos-google 
 
 ###### Google Panda
@@ -199,10 +198,12 @@ https://webmasters.googleblog.com/2011/05/more-guidance-on-building-high-quality
 ###### Google Penguin
 https://webmasters.googleblog.com/2016/09/penguin-is-now-part-of-our-core.html
 
-###### Page Layout (publicité envahissante)
+###### Page Layout
+Publicité envahissante
 https://webmasters.googleblog.com/2012/01/page-layout-algorithm-improvement.html
 
-###### PayDay Loan (antispam)
+###### PayDay Loan
+Antispam
 http://searchengineland.com/google-pay-day-loan-algorithm-google-search-algorithm-update-to-target-spammy-queries-162941
 
 
