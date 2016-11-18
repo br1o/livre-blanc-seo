@@ -57,7 +57,7 @@ Fait avec :heart: pour toutes et tous
       * [Embed API](#embed-api)
 * [Algorithmes Google](#algorithmes-google)
     * [PageRank](#pagerank)
-    * [Pénalités](#penalites)
+    * [Pénalités](#pénalités)
     * [Google Panda](#google-panda)
     * [Google Penguin](#google-penguin)
     * [Page Layout](#page-layout)
