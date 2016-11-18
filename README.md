@@ -183,13 +183,13 @@ https://www.google.fr/intl/fr/analytics/
 https://ga-dev-tools.appspot.com/embed-api/basic-dashboard/
 
 ####  Algorithmes Google
-Google à mis en place de nombreux algorithmes pour améliorer la qualité de ses résultats : amélioration des contenu, lutte contre le spam, gestion de la publicité, performances du site, etc. 
+Google a mis en place de nombreux algorithmes pour améliorer la qualité de ses résultats : amélioration des contenus, lutte contre le spam, gestion de la publicité, performances du site, etc. 
 
 ##### PageRank
-Le PageRank est l'algorithme qui permet à Google de connaitre le nombre de liens qui pointent vers une page donnée. Plus il existe de liens qui pointent vers cette page et plus la page est populaire. En gros, on peut dire que le PageRank indique la probabilité de tomber sur une page donnée en suivant des liens. Le nombre de liens qui pointent vers une page est tempéré par la qualité et le classement des liens qui pointent vers elle.  
+Le PageRank est l'algorithme qui permet à Google de connaitre le nombre de liens qui pointent vers une page donnée. Plus il existe de liens vers cette page et plus la page est populaire. En gros, on peut dire que le PageRank indique la probabilité de tomber sur une page donnée en suivant des liens. Le nombre de liens vers une page est tempéré par la qualité et le classement des liens qui pointent vers elle.  
 
 ##### Pénalités
-A côté du PageRank, Google a mis en place une série de pénalités pour éviter que des pages de qualité douteuse ne trustent les premiers résultats. Cf. http://www.webrankinfo.com/dossiers/conseils/algos-google 
+A côté du PageRank, Google a mis en place une série de pénalités pour éviter que des pages de qualité douteuse ne "trustent" les premiers résultats. Cf. http://www.webrankinfo.com/dossiers/conseils/algos-google 
 
 ###### Google Panda
 https://webmasters.googleblog.com/2011/05/more-guidance-on-building-high-quality.html
