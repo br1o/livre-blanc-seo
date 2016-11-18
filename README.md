@@ -175,13 +175,24 @@ https://www.google.fr/intl/fr/analytics/
 #### Embed API
 https://ga-dev-tools.appspot.com/embed-api/basic-dashboard/
 
-####  Filtres/Algorithmes Google
-
-##### Google Panda
-
-##### Google Penguin 
+####  Algorithmes Google
 
 ##### PageRank (PR) 
+
+##### Pénalités
+
+###### Google Panda
+https://webmasters.googleblog.com/2011/05/more-guidance-on-building-high-quality.html
+
+###### Google Penguin
+https://webmasters.googleblog.com/2016/09/penguin-is-now-part-of-our-core.html
+
+###### Page Layout (publicité envahissante)
+https://webmasters.googleblog.com/2012/01/page-layout-algorithm-improvement.html
+
+###### PayDay Loan (antispam)
+http://searchengineland.com/google-pay-day-loan-algorithm-google-search-algorithm-update-to-target-spammy-queries-162941
+
 
 ### Bing
 #### Bing Webmaster Tools
