@@ -55,6 +55,7 @@ Fait avec :heart: pour toutes et tous
       * [Google Search Console](#google-search-console)
       * [Google Analytics](#google-analytics)
       * [Embed API](#embed-api)
+* [Algorithmes Google](#algorithmes-google)
    * [Bing](#bing)
       * [Bing Webmaster Tools](#bing-webmaster-tools)
    * [Mozilla](#mozilla)
