@@ -60,7 +60,6 @@ Fait avec :heart: pour toutes et tous
     * [Pénalités](#penalites)
     * [Google Panda](#google-panda)
     * [Google Penguin](#google-penguin)
-    * [Google Penguin](#google-penguin)
     * [Page Layout](#page-layout)
     * [PayDay Loan](#payday-loan)
    * [Bing](#bing)
