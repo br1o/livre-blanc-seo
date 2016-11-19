@@ -162,7 +162,7 @@ Vidéo de Matt Cutts [_"Is it necessary for every page to have a meta descriptio
 
 #### Title
 
-Bien qu'il ne s'agit pas à proprement parler d'une balise ``` meta ``` , la balise ``` title ``` permet de donnner un titre à la page. Elle ne s'affiche pas dans le viewport mais elle est utilisée notamment par les navigateurs pour donner un titre aux onglets et par les moteurs de recherche comme titre principal dans les résultats (SERP). C'est dire son importance et le soin qu'il faut lui apporter. 
+Bien qu'il ne s'agit pas à proprement parler d'une balise ``` meta ``` , la balise ``` title ``` permet de donnner un titre à la page. Bien qu'elle ne s'affiche pas dans le viewport, elle est utilisée notamment par les navigateurs pour donner un titre aux onglets et par les moteurs de recherche comme titre principal dans les résultats (SERP). C'est dire son importance et le soin qu'il faut lui apporter. 
 
 Parmi les élements à retenir, le ``` title ``` devrait :
 
