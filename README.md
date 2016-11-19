@@ -40,6 +40,7 @@ Fait avec :heart: pour toutes et tous
       * [Twitter Cards](#twitter-cards)
       * [Alternate Lang](#alternate-lang)
       * [Publisher](#publisher)
+      * [title](#title)
    * [JavaScript](#javascript)
    * [Ligne de flottaison](#ligne-de-flottaison)
    * [Sitemaps](#sitemaps)
@@ -158,6 +159,19 @@ Vidéo de Matt Cutts [_"Is it necessary for every page to have a meta descriptio
 #### Publisher
 
 #### Twitter Cards
+
+#### title
+
+Bien qu'il ne s'agit pas à proprement parler d'une balise ``` meta ``` , la balise ``` title ``` permet de donnner un titre à la page. Elle ne s'affiche pas dans le viewport mais est utilisée notamment par les navigateurs pour donner une titre aux onglets et par les moteurs de recherche comme titre principal dans les résultats (SERP). C'est dire son importance et le soin qu'il faut lui apporter. 
+
+Parmi les élements à retenir, le ``` title ``` devrait :
+
+- avoir une longueur comprise entre 65 et 70 caractères, 
+- refléter le contenu de la page,
+- contenir les mots-clés importants. 
+
+Le ``` <title> ``` devrait être placé sous la balise ``` <meta charset="utf-8"> ``` (Cf. [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) pour plus de détail sur l'ordre des balises ``` meta ```).
+
 
 ### JavaScript
 
