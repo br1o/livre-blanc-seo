@@ -164,13 +164,20 @@ Vidéo de Matt Cutts [_"Is it necessary for every page to have a meta descriptio
 
 Bien qu'il ne s'agit pas à proprement parler d'une balise ``` meta ``` , la balise ``` title ``` permet de donnner un titre à la page. Bien qu'elle ne s'affiche pas dans le viewport, elle est utilisée notamment par les navigateurs pour donner un titre aux onglets et par les moteurs de recherche comme titre principal dans les résultats (SERP). C'est dire son importance et le soin qu'il faut lui apporter. 
 
-Parmi les élements à retenir, le ``` title ``` devrait :
+Parmi les élements à retenir (cf. , le ``` title ``` devrait :
 
 - avoir une longueur comprise entre 65 et 70 caractères, 
 - refléter le contenu de la page,
-- contenir les mots-clés importants. 
+- contenir les mots-clés importants,
+- être différent pour chaque page. 
 
 Le ``` <title> ``` devrait être placé sous la balise ``` <meta charset="utf-8"> ``` (Cf. [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) pour plus de détail sur l'ordre des balises ``` meta ```).
+
+Pour aller plus loin :
+
+- [À quoi servent les balises META ?](http://www.alsacreations.com/article/lire/628-balises-meta.html)
+- [Comment faire une bonne balise TITLE pour un bon référencement](http://www.webrankinfo.com/dossiers/debutants/balise-title)
+- [Comment bien optimiser sa balise title et meta description ?](http://www.eskimoz.fr/balise-title-meta-description/)
 
 
 ### JavaScript
